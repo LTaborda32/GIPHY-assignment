@@ -1,0 +1,30 @@
+body{
+    background-color:black;
+}
+
+.rating{
+    color:white
+}
+
+.jumbotron{
+    opacity: .8;
+}
+
+.logo{
+    width: 250px;
+    height: 250px;
+    margin-left: 400px;
+    margin-bottom: 30px;
+}
+
+button{
+    margin-right: 5px;
+}
+
+.boxed {
+    border: 1px dotted white ;
+    padding: 150px;
+    margin-top: 20px;
+
+
+  }
